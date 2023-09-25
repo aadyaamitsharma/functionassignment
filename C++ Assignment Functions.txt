@@ -1,0 +1,10 @@
+C++ Assignment Functions
+
+Ans5. The minimum number of functions present in any C++ program is: 1.
+
+Ans6. 1. A function may be called more than once from any other function. TRUE
+
+2.It is necessary for a function to return some value. FALSE
+
+Ans7. NO, same function name cannot be used for different functions without any conflict. 
+Only if no. of parameters in two different functions(with same name/ returntype) are different , then there is no conflict.
